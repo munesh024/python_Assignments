@@ -1,4 +1,4 @@
-'''To find all the index of 0 in the given tuple below.
+'''To find all the index of 0 in the given tuple below
 tuple (0,1,2,3,0,1,3,0,23,0)'''
 
 
