@@ -23,6 +23,10 @@ for each in str.upper():
         m =ord("@")+n
         m=chr(m)
         print(m,end="")
+        
+    elif each==" ":
+        print(each,end="")
+        continue
             
     else:
         m=ord(each)+3
