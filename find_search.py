@@ -23,5 +23,5 @@ for each in str1:
         
     
         
-print(f"the count of the Apple is {count}")
+print(f"the occurence  of the Apple string  is {count}")
         
